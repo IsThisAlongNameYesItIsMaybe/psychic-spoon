@@ -1,0 +1,17 @@
+body{background-color:tan;}
+
+h1{color:coral;text-decoration:overline;font-size:48px;font-family:cursive;}
+
+h4{color:gray;font-family:monospace;font-size:18px;}
+
+h3{color:red;font-family:fantasy;}
+
+h2{font-size:24px;color:red;font-family:fantasy;}
+
+p{color:cadetblue;font-size:20px;font-family:sans-serif;}
+
+h5{font-size:32px;}
+
+img {height: 250px;float:right;border-style:dashed;border-color:red;}
+
+h6{text-align:right;opacity:70%;}
